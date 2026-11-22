@@ -1,6 +1,10 @@
 .tete{
   color: white;
-  background-color: rgb(222, 56, 56);
+  background-color:#C52E49;
+   background-image: url("image.jpg");
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-size:  200px 100%;
   text-align: center;
   padding-bottom:20px;
   width: 70%;
